@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Densidad Suelo</string>
+
+    <string name="action_principal">Principal</string>
+    <string name="action_tipo_muestra">Tipo Muestra</string>
+    <string name="action_localizacion_densidad">Localizacion Densidad</string>
+    <string name="action_calculo_densidad_suelo">Calculo Densidad</string>
+
+    <string name="toolbar_name">Densidad de Suelo</string>
+
+</resources>
